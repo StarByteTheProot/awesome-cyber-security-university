@@ -2,14 +2,10 @@
 
 > A curated list of awesome and free educational resources that focuses on learn by doing.
 
-<div align="center">
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="assets/purpleteam.png" width="250"/></a>
 <br/>
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
-</div>
 
 ## Contents
 
