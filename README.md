@@ -6,25 +6,29 @@
 <i>Because education should be free.</i>
 <br/>
 
+<br/>
+<br/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/StarByte.png" alt="Your Image Badge" />
 
 ## Contents
 
-* [About](#about)
+<!-- * [About](#about)
 * [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed/In Progress)
 * [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
-* [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress)
+* [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do) - (Completed/In Progress) -->
 
-<!-- | Paths                              | Completion |
-| -------------------------------- | ---------------------|
-|[Introduction and Pre-Security](#-introduction-and-pre-security) |(Completed/In Progress) |
-|[Free Beginner Red Team Path](#-free-beginner-red-team-path)   |(Add your badge here. Badge code is hidden in this repo) |
-|[Free Beginner Blue Team Path](#-free-beginner-blue-team-path)  |(Add your badge here. Badge code is hidden in this repo) |
-|[Bonus CTF practice & Latest CVEs](#-bonus-ctf-practice-and-latest-cves)|(Completed/In Progress)|
-|[Bonus Windows](#-bonus-windows)|(Completed/In Progress)|
-|[Extremely Hard Rooms to do](#-extremely-hard-rooms-to-do)    |(Completed/In Progress) | -->
+| Paths                                                                   | Completion           |
+| ----------------------------------------------------------------------- | ---------------------|
+| [Introduction and Pre-Security](#introduction-and-pre-security)         | **In Progress**      |
+| [Free Beginner Red Team Path](#free-beginner-red-team-path)             |                      |
+| [Free Beginner Blue Team Path](#free-beginner-blue-team-path)           |                      |
+| [Bonus CTF practice & Latest CVEs](#bonus-ctf-practice-and-latest-cves) |                      |
+| [Bonus Windows](#bonus-windows)                                         |                      |
+| [Extremely Hard Rooms to do](#extremely-hard-rooms-to-do)               |                      |
 
 ## About
 
@@ -69,7 +73,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
 
-* [ ] [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
+* [x] [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
 * [ ] [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
 * [ ] [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.
 
