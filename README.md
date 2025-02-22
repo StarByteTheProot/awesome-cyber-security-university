@@ -69,7 +69,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [x] [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
 * [ ] ~~[Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.~~ Paid room.
 * [x] [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
-* [ ] [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
+* [x] [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 * [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
 
 <!-- markdownlint-disable MD036 -->
