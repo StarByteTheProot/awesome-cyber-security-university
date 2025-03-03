@@ -67,7 +67,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [ ] ~~[Linux Fundamentals 2](<https://tryhackme.com/room/linuxfundamentalspart2>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.~~ **Premium room**
 * [ ] ~~[Linux Fundamentals 3](<https://tryhackme.com/room/linuxfundamentalspart3>) - Embark on the journey of learning the fundamentals of Linux. Learn to run some of the first essential commands on an interactive terminal.~~ **Premium room**
 * [x] [Pentesting fundamentals](<https://tryhackme.com/room/pentestingfundamentals>) - Fundamentals of penetration testing.
-* [ ] ~~[Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.~~ Paid room.
+* [ ] ~~[Principles of security](<https://tryhackme.com/room/principlesofsecurity>) - Principles of security.~~ **Premium room**
 * [x] [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [x] [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 * [ ] [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
