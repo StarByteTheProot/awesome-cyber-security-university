@@ -180,7 +180,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 ### Level 1 - Tools
 
 * [ ] [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
-* [ ] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to Windows.
+* [x] [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to Windows.
 * [ ] [Nessus](<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
 * [ ] [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
 * [ ] [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
