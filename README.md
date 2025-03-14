@@ -77,7 +77,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 * [x] [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
 * [x] [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
-* [ ] [Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.
+* [x] ~~[Shodan.io](<https://tryhackme.com/room/shodan>) - Learn about Shodan.io and how to use it for device enumeration.~~ **Dependant on real time data -- OUTDATED**
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
